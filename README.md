@@ -44,3 +44,7 @@ classDiagram
 
 
 ```
+
+#OTRO PUNTO DE VISTA
+
+![DIAGRAMA DE CLASES](images/PlanetsOtherModel.webp)
